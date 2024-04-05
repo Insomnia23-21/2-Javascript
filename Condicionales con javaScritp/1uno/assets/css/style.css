@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+
+#image-container {
+  display: inline-block;
+}
+
+#javaScript-image {
+  border: none;
+}
+
+.border-active {
+  border: 2px solid red !important;
+}
